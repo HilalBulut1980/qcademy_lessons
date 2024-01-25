@@ -2,3 +2,5 @@ Hello world!
 You are beautiful and wonderful!
 
 Commit 1
+
+Commit 2
